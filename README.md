@@ -31,10 +31,6 @@ Today:
 
 
 Homework
---------
+-----
 
-Take day-31 homework and:
-
-1. Add a name for each picture (in the form, and the data)
-1. add a "Sign up" wizard and make the user accept the terms after username/password
-1. add a search form to search for the photos and display results
+None today, just finish day-31
