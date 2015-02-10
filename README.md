@@ -27,7 +27,14 @@ Today:
 1. `fog` (store photos on heroku)
 1. `pg_search`
 1. `acts_as_taggable_on`
-1. `wicked` (wizard)
+
+Notes:
+---
+
+Gems were added to:
+
+1. https://github.com/tiy-houston-q1-rails/pins
+1. https://github.com/tiy-houston-q1-rails/bloggy
 
 
 Homework
